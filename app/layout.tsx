@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "CheckIn Base",
   description: "Daily streak mini app on Base",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://example.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://checkin-base-plum.vercel.app"),
   other: {
     "base:app_id": "69c9ed3254fba99e37410fe4",
     "talentapp:project_verification":
@@ -25,3 +25,4 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
+

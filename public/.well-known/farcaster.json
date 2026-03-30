@@ -7,28 +7,29 @@
   "frame": {
     "version": "1",
     "name": "CheckIn Base",
-    "iconUrl": "https://example.com/icon.png",
-    "homeUrl": "https://example.com",
-    "imageUrl": "https://example.com/og.png",
+    "iconUrl": "https://checkin-base-plum.vercel.app/icon.png",
+    "homeUrl": "https://checkin-base-plum.vercel.app",
+    "imageUrl": "https://checkin-base-plum.vercel.app/og.png",
     "buttonTitle": "Open CheckIn Base",
-    "splashImageUrl": "https://example.com/splash.png",
+    "splashImageUrl": "https://checkin-base-plum.vercel.app/splash.png",
     "splashBackgroundColor": "#F8FAFC"
   },
   "miniapp": {
     "version": "1",
     "name": "CheckIn Base",
-    "homeUrl": "https://example.com",
-    "iconUrl": "https://example.com/icon.png",
-    "imageUrl": "https://example.com/og.png",
+    "homeUrl": "https://checkin-base-plum.vercel.app",
+    "iconUrl": "https://checkin-base-plum.vercel.app/icon.png",
+    "imageUrl": "https://checkin-base-plum.vercel.app/og.png",
     "buttonTitle": "Open CheckIn Base",
-    "splashImageUrl": "https://example.com/splash.png",
+    "splashImageUrl": "https://checkin-base-plum.vercel.app/splash.png",
     "splashBackgroundColor": "#F8FAFC"
   },
   "name": "CheckIn Base",
-  "homeUrl": "https://example.com",
-  "iconUrl": "https://example.com/icon.png",
-  "imageUrl": "https://example.com/og.png",
+  "homeUrl": "https://checkin-base-plum.vercel.app",
+  "iconUrl": "https://checkin-base-plum.vercel.app/icon.png",
+  "imageUrl": "https://checkin-base-plum.vercel.app/og.png",
   "buttonTitle": "Open CheckIn Base",
-  "splashImageUrl": "https://example.com/splash.png",
+  "splashImageUrl": "https://checkin-base-plum.vercel.app/splash.png",
   "splashBackgroundColor": "#F8FAFC"
 }
+
